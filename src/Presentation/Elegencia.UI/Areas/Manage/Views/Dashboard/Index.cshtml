@@ -1,0 +1,104 @@
+﻿@model DashboardVM
+
+<main class="app-content">
+    <div class="app-title">
+        <div>
+            <h1> Elegencia</h1>
+            <p>
+                Embark on a gastronomic adventure, guided by our exquisite dishes
+            </p>
+        </div>
+        <ul class="app-breadcrumb breadcrumb">
+            <li class="breadcrumb-item"><i class="bi bi-house-door fs-6"></i></li>
+            <li class="breadcrumb-item"><a asp-controller="home" asp-action="index" asp-area="">Home</a></li>
+        </ul>
+    </div>
+    <div class="row">
+        <div class="col-md-6 col-lg-3">
+            <div class="widget-small primary coloured-icon">
+                <i class="icon bi bi-people fs-1"></i>
+                <div class="info">
+                    <h4>Users</h4>
+                    <p><b>@Model.UserCount</b></p>
+                </div>
+            </div>
+        </div>
+        @*  <div class="col-md-6 col-lg-3">
+        <div class="widget-small info coloured-icon">
+        <i class="icon bi bi-heart fs-1"></i>
+        <div class="info">
+        <h4>Likes</h4>
+        <p><b>25</b></p>
+        </div>
+        </div>
+        </div>
+        <div class="col-md-6 col-lg-3">
+        <div class="widget-small warning coloured-icon">
+        <i class="icon bi bi-folder2 fs-1"></i>
+        <div class="info">
+        <h4>Uploades</h4>
+        <p><b>10</b></p>
+        </div>
+        </div>
+        </div>
+        <div class="col-md-6 col-lg-3">
+        <div class="widget-small danger coloured-icon">
+        <i class="icon bi bi-star fs-1"></i>
+        <div class="info">
+        <h4>Stars</h4>
+        <p><b>500</b></p>
+        </div>
+        </div>
+        </div> *@
+    </div>
+    @*  <div class="row">
+    <div class="col">
+    <div class="tile">
+    <h3 class="tile-title">Users messages</h3>
+    <div class="ratio ratio-16x9"> *@
+    <div class="tile">
+        <h3 class="tile-title">@(Model.ReservationCount > 10 ? "10+" : Model.ReservationCount) @(Model.ReservationCount <= 0 ? "Reservation" : "Reservations")  </h3>
+        <div class="table-responsive col-12">
+            <table class="table">
+                <thead>
+                    <tr>
+                   
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (Reservation item in Model.Reservations)
+                    {
+                        <tr>
+
+                            <td>
+                                <ul class="list-group">
+                                    <li class="list-group-item">Name: @item.Name</li>
+                                    <li class="list-group-item">Email: <a href="mailto:@item.Email">@item.Email</a></li>
+                                    <li class="list-group-item">Number of people:@item.NumberOfPeople</li>
+                                    <li class="list-group-item">Arrival date time:@item.ArrivalDateTime</li>
+
+                                </ul>
+                            </td>
+                                <td >
+                                <a class="d-flex justify-content-center pt-5" asp-controller="dashboard" asp-action="read" asp-route-id="@item.Id">
+                                    <img src="~/manage/images/accept.png" style="width:20px; height:20px"/>
+                                </a>
+                                <a class="d-flex justify-content-center pt-5" asp-controller="dashboard" asp-action="reject" asp-route-id="@item.Id">
+                                    <img src="~/manage/images/reject.png" style="width:20px; height:20px"/>
+                                </a>
+                            </td>
+                        </tr>
+
+                    }
+
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+    @*                </div>
+    </div>
+    </div>
+    </div> *@
+
+</main>

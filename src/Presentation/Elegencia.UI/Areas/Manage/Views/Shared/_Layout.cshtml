@@ -1,0 +1,213 @@
+﻿@using Elegencia.Persistence.Implementations.Services.Manage
+
+
+@inject UserService service
+@{
+    AppUser user = await service.Get();
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="description" content="Vali is a responsive and free admin theme built with Bootstrap 5, SASS and PUG.js. It's fully customizable and modular.">
+    <!-- Twitter meta-->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:site" content="pratikborsadiya">
+    <meta property="twitter:creator" content="pratikborsadiya">
+    <!-- Open Graph Meta-->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Elegencia Admin">
+    <meta property="og:title" content="Vali - Free Bootstrap 5 admin theme">
+    <meta property="og:url" content="http://pratikborsadiya.in/blog/vali-admin">
+    <meta property="og:image" content="http://pratikborsadiya.in/blog/vali-admin/hero-social.png">
+    <meta property="og:description" content="Vali is a responsive and free admin theme built with Bootstrap 5, SASS and PUG.js. It's fully customizable and modular.">
+    <title>Elegencia Admin</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="~/assets/img/favicon.svg" />
+    <!-- Main CSS-->
+    <link rel="stylesheet" type="text/css" href="~/manage/css/main.css">
+    <!-- Font-icon css-->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="~/manage/vendors/datatables.net-bs4/dataTables.bootstrap4.css">
+    <link rel="stylesheet" href="~/manage/vendors/mdi/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="~/manage/vendors/base/vendor.bundle.base.css">
+
+</head>
+<body class="app sidebar-mini body">
+    <!-- Navbar-->
+    <header class="app-header">
+        <a class="app-header__logo" asp-area="" asp-controller="home" asp-action="index">Elegencia</a>
+        <!-- Sidebar toggle button--><a class="app-sidebar__toggle" href="#" data-toggle="sidebar" aria-label="Hide Sidebar"></a>
+    
+    </header>
+    <!-- Sidebar menu-->
+    <div class="app-sidebar__overlay" data-toggle="sidebar"></div>
+    <aside class="app-sidebar">
+        @if (User.Identity.IsAuthenticated)
+        {
+            <div class="app-sidebar__user">
+                <img class="app-sidebar__user-avatar" src="~/assets/img/@user.Image" alt="User Image">
+                <div>
+                    <a asp-controller="user" asp-action="usersettings" class="app-sidebar__user-name text-light" style="inline-size:none">@user.Name  @user.Surname</a>
+                </div>
+            </div>
+        }
+        <ul class="app-menu">
+            <li><a class="app-menu__item active" asp-controller="dashboard" asp-action="index"><span class="app-menu__label"><img style="width:30px;height:30px" src="~/manage/images/home-2-icon.png"> Dashboard</span></a></li>
+
+            <li class="treeview">
+                <a class="app-menu__item" data-bs-toggle="collapse" href="#auth1" aria-expanded="false" aria-controls="auth">
+                    
+                    <span class="menu-title"><img style="width:30px;height:30px" src="~/manage/images/menu-icon-3.png" />Menu</span>
+                    <i class="menu-arrow"></i>
+                </a>
+                <div class="collapse" id="auth1">
+                    <ul class="nav flex-column sub-menu ps-4">
+                        <li class="nav-item">  <a class="app-menu__item" asp-controller="mainmeal" asp-action="index"><img style="width:25px;height:25px" src="~/manage/images/main-meal-2.png" /> Main meals </a></li>
+                        <li class="nav-item"> <a class="app-menu__item" asp-controller="salad" asp-action="index"><img style="width:25px;height:25px" src="~/manage/images/salad-icon.png" />Soups and Salads </a></li>
+                        <li class="nav-item"><a class="app-menu__item" asp-controller="dessert" asp-action="index"><img style="width:24px;height:24px" src="~/manage/images/dessert-icon.png" /> Desserts </a></li>
+                        <li class="nav-item"> <a class="app-menu__item" asp-controller="drink" asp-action="index"><img style="width:25px;height:25px" src="~/manage/images/drink-icon.png" /> Drinks  </a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="treeview">
+                <a class="app-menu__item" data-bs-toggle="collapse" href="#auth2" aria-expanded="false" aria-controls="auth">
+                    <span class="menu-title"><img style="width:30px;height:30px" src="~/manage/images/category-icon.png" />Category</span>
+                    <i class="menu-arrow"></i>
+                </a>
+                <div class="collapse" id="auth2">
+                    <ul class="nav flex-column sub-menu ps-4">
+                        <li class="nav-item"> <a class="app-menu__item" asp-controller="maincategory" asp-action="index"><img style="width:25px;height:25px" src="~/manage/images/main-category.png" /> Main category </a></li>
+                        <li class="nav-item"> <a class="app-menu__item" asp-controller="dessertcategory" asp-action="index"><img style="width:25px;height:25px" src="~/manage/images/des-cat-icon.png" /> Dessert categories </a></li>
+                        <li class="nav-item"> <a class="app-menu__item" asp-controller="drinkcategory" asp-action="index"> <img style="width:25px;height:25px" src="~/manage/images/dr-cat-icon.png" />Drink categories </a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="treeview">
+                <a class="app-menu__item" data-bs-toggle="collapse" href="#auth3" aria-expanded="false" aria-controls="auth">
+                    <span class="menu-title"><img style="width:30px;height:30px" src="~/manage/images/our-chef-icon-2.png" />Our chefs</span>
+                    <i class="menu-arrow"></i>
+                </a>
+                <div class="collapse" id="auth3">
+                    <ul class="nav flex-column sub-menu ps-4">
+                        <li class="nav-item"> <a class="app-menu__item" asp-controller="chef" asp-action="index"><img style="width:25px;height:25px" src="~/manage/images/chef-icon.png" /> Chefs </a></li>
+                        <li class="nav-item"> <a class="app-menu__item" asp-controller="position" asp-action="index"><img style="width:25px;height:25px" src="~/manage/images/chef-position-icon.png" /> Chef position </a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="treeview">
+                <a class="app-menu__item" asp-controller="news" asp-action="index">
+                    <span class="menu-title"><img style="width:30px;height:30px" src="~/manage/images/news-icon.png" />News</span>
+                </a>
+            </li>
+            <li class="treeview">
+                <a class="app-menu__item" asp-controller="famous" asp-action="index">
+                    <span class="menu-title"><img style="width:30px;height:30px" src="~/manage/images/fame.png" />Famous</span>
+                </a>
+            </li>
+            <li class="treeview">
+                <a class="app-menu__item" asp-controller="setting" asp-action="index">
+                    <span class="menu-title"><img style="width:30px;height:30px" src="~/manage/images/contact-icon.png"/>Settings</span>
+                </a>
+            </li>
+         <hr>
+         <hr>
+
+
+            <li class="treeview">
+                <a class="app-menu__item" asp-controller="basket" asp-action="index">
+                    <span class="menu-title"><img style="width:30px;height:30px" src="~/manage/images/basket-icon.png" />Trash</span>
+                </a>
+            </li>
+        </ul>
+
+    </aside>
+    @RenderBody()
+    <!-- Essential javascripts for application to work-->
+    <script src="~/manage/js/jquery-3.7.0.min.js"></script>
+    <script src="~/manage/js/bootstrap.min.js"></script>
+    <script src="~/manage/js/main.js"></script>
+    <!-- Page specific javascripts-->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <script type="text/javascript">
+        const salesData = {
+            xAxis: {
+                type: 'category',
+                data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+            },
+            yAxis: {
+                type: 'value',
+                axisLabel: {
+                    formatter: '${value}'
+                }
+            },
+            series: [
+                {
+                    data: [150, 230, 224, 218, 135, 147, 260],
+                    type: 'line',
+                    smooth: true
+                }
+            ],
+            tooltip: {
+                trigger: 'axis',
+                formatter: "<b>{b0}:</b> ${c0}"
+            }
+        }
+
+        const supportRequests = {
+            tooltip: {
+                trigger: 'item'
+            },
+            legend: {
+                orient: 'vertical',
+                left: 'left'
+            },
+            series: [
+                {
+                    name: 'Support Requests',
+                    type: 'pie',
+                    radius: '50%',
+                    data: [
+                        { value: 300, name: 'In Progress' },
+                        { value: 50, name: 'Delayed' },
+                        { value: 100, name: 'Complete' }
+                    ],
+                    emphasis: {
+                        itemStyle: {
+                            shadowBlur: 10,
+                            shadowOffsetX: 0,
+                            shadowColor: 'rgba(0, 0, 0, 0.5)'
+                        }
+                    }
+                }
+            ]
+        };
+
+        const salesChartElement = document.getElementById('salesChart');
+        const salesChart = echarts.init(salesChartElement, null, { renderer: 'svg' });
+        salesChart.setOption(salesData);
+        new ResizeObserver(() => salesChart.resize()).observe(salesChartElement);
+
+        const supportChartElement = document.getElementById("supportRequestChart")
+        const supportChart = echarts.init(supportChartElement, null, { renderer: 'svg' });
+        supportChart.setOption(supportRequests);
+        new ResizeObserver(() => supportChart.resize()).observe(supportChartElement);
+    </script>
+    <!-- Google analytics script-->
+    <script type="text/javascript">
+        if (document.location.hostname == 'pratikborsadiya.in') {
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+            ga('create', 'UA-72504830-1', 'auto');
+            ga('send', 'pageview');
+        }
+    </script>
+</body>
+</html>
+

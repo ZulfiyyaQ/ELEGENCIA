@@ -1,0 +1,272 @@
+﻿@model BasketVM
+@{
+    int count = 0;
+}
+<main class="app-content">
+    <div class="d-flex justify-content-center">@Html.Raw(TempData["Message"])</div>
+        <form asp-controller="basket" asp-action="index">
+           
+            <ul class="app-nav">
+                <li class="app-search">
+                    <input name="search" class="input-section rounded-pill"
+                           type="text"
+                           style="padding:0 0 0 5px"
+                           placeholder="Search"
+                           value="@(Model.Search==null ? "" : Model.Search)" />
+                    <button class="app-search__button"><i class="bi bi-search"></i></button>
+                </li>
+            </ul>
+        </form>
+    
+    <div class="tile">
+
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Image</th>
+                    <th>Title</th>
+                    <th>Settings</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Meal meal in Model.Meals)
+                {
+                    count++;
+                    <tr>
+                        <td>
+                            @count
+                        </td>
+                        <td>
+                            <img style="width:80;height:80px" src="~/assets/img/@meal.MealImages.FirstOrDefault(mi=>mi.IsPrimary==true)?.Image" />
+                        </td>
+                        <td>
+                            @meal.Name
+                        </td>
+
+                        <td>
+                            <a class="btn btn-inverse-secondary btn-fw" asp-controller="basket" asp-action="restoremeal" asp-route-id="@meal.Id"><i class="mdi mdi-backup-restore"></i></a>
+                            <a class="btn btn-inverse-danger btn-fw" asp-controller="basket" asp-action="deletemeal" asp-route-id="@meal.Id"><i class="mdi mdi-delete"></i></a>
+                        </td>
+                    </tr>
+
+                }
+
+            </tbody>
+            <tbody>
+                @foreach (Salad salad in Model.Salads)
+                {
+                    count++;
+                    <tr>
+                        <td>
+                            @count
+                        </td>
+                        <td>
+                            <img style="width:80;height:80px" src="~/assets/img/@salad.Image" />
+                        </td>
+                        <td>
+                            @salad.Name
+                        </td>
+
+                        <td>
+                            <a class="btn btn-inverse-secondary btn-fw" asp-controller="basket" asp-action="restoresalad" asp-route-id="@salad.Id"><i class="mdi mdi-backup-restore"></i></a>
+                            <a class="btn btn-inverse-danger btn-fw" asp-controller="basket" asp-action="deletesalad" asp-route-id="@salad.Id"><i class="mdi mdi-delete"></i></a>
+                        </td>
+                    </tr>
+
+                }
+
+            </tbody>
+            <tbody>
+                @foreach (Dessert dessert in Model.Desserts)
+                {
+                    count++;
+                    <tr>
+                        <td>
+                            @count
+                        </td>
+                        <td>
+                            <img style="width:80;height:80px" src="~/assets/img/@dessert.DessertImages.FirstOrDefault(mi=>mi.IsPrimary==true)?.Image" />
+                        </td>
+                        <td>
+                            @dessert.Name
+                        </td>
+
+                        <td>
+                            <a class="btn btn-inverse-secondary btn-fw" asp-controller="basket" asp-action="restoredessert" asp-route-id="@dessert.Id"><i class="mdi mdi-backup-restore"></i></a>
+                            <a class="btn btn-inverse-danger btn-fw" asp-controller="basket" asp-action="deletedessert" asp-route-id="@dessert.Id"><i class="mdi mdi-delete"></i></a>
+                        </td>
+                    </tr>
+
+                }
+
+            </tbody>
+            <tbody>
+                @foreach (Drink drink in Model.Drinks)
+                {
+                    count++;
+                    <tr>
+                        <td>
+                            @count
+                        </td>
+                        <td>
+                            <img style="width:80;height:80px" src="~/assets/img/@drink.Image" />
+                        </td>
+                        <td>
+                            @drink.Name
+                        </td>
+
+                        <td>
+                            <a class="btn btn-inverse-secondary btn-fw" asp-controller="basket" asp-action="restoredrink" asp-route-id="@drink.Id"><i class="mdi mdi-backup-restore"></i></a>
+                            <a class="btn btn-inverse-danger btn-fw" asp-controller="basket" asp-action="deletedrink" asp-route-id="@drink.Id"><i class="mdi mdi-delete"></i></a>
+                        </td>
+                    </tr>
+
+                }
+
+            </tbody>
+            <tbody>
+                @foreach (Chef chef in Model.Chefs)
+                {
+                    count++;
+                    <tr>
+                        <td>
+                            @count
+                        </td>
+                        <td>
+                            <img style="width:80;height:80px" src="~/assets/img/@chef.Image" />
+                        </td>
+                        <td>
+                            @chef.Name @chef.Surname
+                        </td>
+
+                        <td>
+                            <a class="btn btn-inverse-secondary btn-fw" asp-controller="basket" asp-action="restorechef" asp-route-id="@chef.Id"><i class="mdi mdi-backup-restore"></i></a>
+                            <a class="btn btn-inverse-danger btn-fw" asp-controller="basket" asp-action="deletechef" asp-route-id="@chef.Id"><i class="mdi mdi-delete"></i></a>
+                        </td>
+                    </tr>
+
+                }
+
+            </tbody>
+            <tbody>
+                @foreach (News news in Model.News)
+                {
+                    count++;
+                    <tr>
+                        <td>
+                            @count
+                        </td>
+
+                        <td>
+                            <img style="width:80;height:80px" src="~/assets/img/@news.Image" />
+                        </td>
+                        <td>
+                            @news.Name
+                        </td>
+                        <td>
+                            <a class="btn btn-inverse-secondary btn-fw" asp-controller="basket" asp-action="restorenews" asp-route-id="@news.Id"><i class="mdi mdi-backup-restore"></i></a>
+                            <a class="btn btn-inverse-danger btn-fw" asp-controller="basket" asp-action="deletenews" asp-route-id="@news.Id"><i class="mdi mdi-delete"></i></a>
+                        </td>
+                    </tr>
+
+                }
+
+            </tbody>
+            <tbody>
+                @foreach (Category category in Model.MainCategories)
+                {
+                    count++;
+                    <tr>
+                        <td>
+                            @count
+                        </td>
+                        <td>
+                        </td>
+                        <td>
+                            @category.Name
+                        </td>
+
+                        <td>
+                            <a class="btn btn-inverse-secondary btn-fw" asp-controller="basket" asp-action="restorecategory" asp-route-id="@category.Id"><i class="mdi mdi-backup-restore"></i></a>
+                            <a class="btn btn-inverse-danger btn-fw" asp-controller="basket" asp-action="deletecategory" asp-route-id="@category.Id"><i class="mdi mdi-delete"></i></a>
+                        </td>
+                    </tr>
+
+                }
+
+            </tbody>
+            <tbody>
+                @foreach (DessertCategory category in Model.DessertCategories)
+                {
+                    count++;
+                    <tr>
+                        <td>
+                            @count
+                        </td>
+                        <td>
+                        </td>
+                        <td>
+                            @category.Name
+                        </td>
+
+                        <td>
+                            <a class="btn btn-inverse-secondary btn-fw" asp-controller="basket" asp-action="restoredessertcategory" asp-route-id="@category.Id"><i class="mdi mdi-backup-restore"></i></a>
+                            <a class="btn btn-inverse-danger btn-fw" asp-controller="basket" asp-action="deletedessertcategory" asp-route-id="@category.Id"><i class="mdi mdi-delete"></i></a>
+                        </td>
+                    </tr>
+
+                }
+
+            </tbody>
+            <tbody>
+                @foreach (DrinkCategory category in Model.DrinkCategories)
+                {
+                    count++;
+                    <tr>
+                        <td>
+                            @count
+                        </td>
+                        <td>
+                        </td>
+                        <td>
+                            @category.Name
+                        </td>
+
+                        <td>
+                            <a class="btn btn-inverse-secondary btn-fw" asp-controller="basket" asp-action="restoredrinkcategory" asp-route-id="@category.Id"><i class="mdi mdi-backup-restore"></i></a>
+                            <a class="btn btn-inverse-danger btn-fw" asp-controller="basket" asp-action="deletedrinkcategory" asp-route-id="@category.Id"><i class="mdi mdi-delete"></i></a>
+                        </td>
+                    </tr>
+
+                }
+
+            </tbody>
+
+            <tbody>
+                @foreach (Position position in Model.Positions)
+                {
+                    count++;
+                    <tr>
+                        <td>
+                            @count
+                        </td>
+                        <td>
+                        </td>
+                        <td>
+                            @position.Name
+                        </td>
+
+                        <td>
+                            <a class="btn btn-inverse-secondary btn-fw" asp-controller="basket" asp-action="restoreposition" asp-route-id="@position.Id"><i class="mdi mdi-backup-restore"></i></a>
+                            <a class="btn btn-inverse-danger btn-fw" asp-controller="basket" asp-action="deleteposition" asp-route-id="@position.Id"><i class="mdi mdi-delete"></i></a>
+                        </td>
+                    </tr>
+
+                }
+
+            </tbody>
+
+        </table>
+    </div>
+</main>

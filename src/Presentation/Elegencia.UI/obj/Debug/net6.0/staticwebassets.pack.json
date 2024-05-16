@@ -1,0 +1,1449 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\css\\plugins\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\css\\plugins\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\css\\plugins\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\css\\plugins\\lightgallery.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\lightgallery.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\css\\plugins\\locomotive-scroll.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\locomotive-scroll.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\css\\plugins\\swiper.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\fonts\\lg.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\lg.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\fonts\\lg.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\lg.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\fonts\\lg.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\lg.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\fonts\\lg.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\lg.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\03f0ad99-3200-428f-ad33-466cb19d6589WhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\03f0ad99-3200-428f-ad33-466cb19d6589WhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\0403e89e-4911-4b2f-9785-78e0dac388e2Panna-Cotta.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\0403e89e-4911-4b2f-9785-78e0dac388e2Panna-Cotta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\06772144-0a34-4ad4-98bd-750d362f981aadmin-image-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\06772144-0a34-4ad4-98bd-750d362f981aadmin-image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\071e871b-8f48-43f7-8fa6-1f7d40462598Shrimp_Scampi.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\071e871b-8f48-43f7-8fa6-1f7d40462598Shrimp_Scampi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\08722c54-2fe5-4efa-989f-c608dc6c8082WhatsApp Image 2022-09-04 at 00.27.25.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\08722c54-2fe5-4efa-989f-c608dc6c8082WhatsApp Image 2022-09-04 at 00.27.25.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\09dd06e1-5310-4941-9bf7-d3046be6cf6cgrilled.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\09dd06e1-5310-4941-9bf7-d3046be6cf6cgrilled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\09de76e4-5ddb-4c04-9bc6-25e574c35028beef-taco-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\09de76e4-5ddb-4c04-9bc6-25e574c35028beef-taco-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\0ac8efab-5318-40c9-9a95-aea832ffc697choco.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\0ac8efab-5318-40c9-9a95-aea832ffc697choco.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\0bb5231c-8e82-405c-9b11-e51c2a3afa91WhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\0bb5231c-8e82-405c-9b11-e51c2a3afa91WhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\0c2913ec-55e0-4fc8-99bf-e025b8c7c50fWhatsApp Image 2022-09-04 at 00.27.26.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\0c2913ec-55e0-4fc8-99bf-e025b8c7c50fWhatsApp Image 2022-09-04 at 00.27.26.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\0d25a97d-0eeb-4287-8a97-2a204ad97c46onion-soup.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\0d25a97d-0eeb-4287-8a97-2a204ad97c46onion-soup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\1234b365-bd4b-40ee-ab83-27445eae2437WhatsApp Image 2022-09-04 at 00.27.23.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\1234b365-bd4b-40ee-ab83-27445eae2437WhatsApp Image 2022-09-04 at 00.27.23.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\13328206-c848-4cf7-8c52-4d562cb7266ered-velvet.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\13328206-c848-4cf7-8c52-4d562cb7266ered-velvet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\1339104b-c902-466c-9812-8667afe8e2ecWhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\1339104b-c902-466c-9812-8667afe8e2ecWhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\15e186ba-c79a-4adf-b0c2-d81f66e92561lemon_herbs.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\15e186ba-c79a-4adf-b0c2-d81f66e92561lemon_herbs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\1781fcb4-45ee-4afc-879b-5fc095c1dabcmango-coconut.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\1781fcb4-45ee-4afc-879b-5fc095c1dabcmango-coconut.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\1a3eb0bd-4d5c-4a02-9f39-0c06bcd7f332Shrimp_Scampi.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\1a3eb0bd-4d5c-4a02-9f39-0c06bcd7f332Shrimp_Scampi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\1a86418d-ed51-43a2-8267-4dbec8fd94fbWhatsApp Image 2022-09-04 at 00.29.23.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\1a86418d-ed51-43a2-8267-4dbec8fd94fbWhatsApp Image 2022-09-04 at 00.29.23.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\1c2a2f53-fbd7-426d-9585-a564666b0399WhatsApp Image 2022-09-04 at 00.27.26.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\1c2a2f53-fbd7-426d-9585-a564666b0399WhatsApp Image 2022-09-04 at 00.27.26.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\1e12e30c-f572-4685-b90e-8dd0de9eaa24SquashSoup.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\1e12e30c-f572-4685-b90e-8dd0de9eaa24SquashSoup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\1fd0b33f-fabc-4803-9013-9774d4a90132strawberry_tea.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\1fd0b33f-fabc-4803-9013-9774d4a90132strawberry_tea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\1fdea9ce-02b4-4b3b-9208-cc1cfaa977eeWhatsApp Image 2022-09-04 at 00.29.22.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\1fdea9ce-02b4-4b3b-9208-cc1cfaa977eeWhatsApp Image 2022-09-04 at 00.29.22.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\206fc6e4-88ee-44e4-a1cd-15ef7b467ef3home-family-vanilla-bean-panna-cotta.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\206fc6e4-88ee-44e4-a1cd-15ef7b467ef3home-family-vanilla-bean-panna-cotta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\2446e8cd-2293-41ed-bfbb-94e03f9dbe01EGGPLANT-PARMESANE.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\2446e8cd-2293-41ed-bfbb-94e03f9dbe01EGGPLANT-PARMESANE.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\24fbcb6b-79f4-43f1-8093-ab5bf1c9d96cCapreseSalad.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\24fbcb6b-79f4-43f1-8093-ab5bf1c9d96cCapreseSalad.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\2579cdc4-45d5-4491-8b32-780d51561878lemon_herbs.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\2579cdc4-45d5-4491-8b32-780d51561878lemon_herbs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\25ad5d69-848a-4561-99a8-2803162a152cstraüberrysalad.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\25ad5d69-848a-4561-99a8-2803162a152cstraüberrysalad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\28d47498-7fe9-4622-9e8f-dc386204d400WhatsApp Image 2022-09-04 at 00.29.36.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\28d47498-7fe9-4622-9e8f-dc386204d400WhatsApp Image 2022-09-04 at 00.29.36.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\2b9a3b0a-efc2-4892-a341-62cf9f5e2cc4CarrotGingerSoup.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\2b9a3b0a-efc2-4892-a341-62cf9f5e2cc4CarrotGingerSoup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\2ba53f92-01db-478b-8f78-255ac0433c57key-lima-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\2ba53f92-01db-478b-8f78-255ac0433c57key-lima-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\33d60685-aa75-4a4d-a2dc-dc4125f8c788apple-crispe-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\33d60685-aa75-4a4d-a2dc-dc4125f8c788apple-crispe-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\33eb9601-f39a-4ce4-bf5d-ca3a632bb502tiramisu-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\33eb9601-f39a-4ce4-bf5d-ca3a632bb502tiramisu-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\341ef1bc-84e6-4484-90aa-b47b1458f730tomatoşjpg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\341ef1bc-84e6-4484-90aa-b47b1458f730tomatoşjpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\352a68f4-4725-459c-9090-f3e59df84f45raspberry-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\352a68f4-4725-459c-9090-f3e59df84f45raspberry-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\383859a4-55fd-4496-b876-bb47da468a8dcassis.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\383859a4-55fd-4496-b876-bb47da468a8dcassis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\394979b1-f80f-459c-b330-05518f8e1ee7chocolate-lava-cake.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\394979b1-f80f-459c-b330-05518f8e1ee7chocolate-lava-cake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\3d893749-ec71-441c-b71a-1c2b99420672WhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\3d893749-ec71-441c-b71a-1c2b99420672WhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\3df8f6be-c37e-4883-a259-73be5f939254spaghetti_carbonara.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\3df8f6be-c37e-4883-a259-73be5f939254spaghetti_carbonara.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\41be97a7-f4ab-428b-ad39-2261265393fered-.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\41be97a7-f4ab-428b-ad39-2261265393fered-.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\424035e0-7e70-41b7-92cc-e2510a74a22eWhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\424035e0-7e70-41b7-92cc-e2510a74a22eWhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\42ae91f1-4165-4fa1-968c-bf6d43bb4293WhatsApp Image 2022-09-04 at 00.27.16.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\42ae91f1-4165-4fa1-968c-bf6d43bb4293WhatsApp Image 2022-09-04 at 00.27.16.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\467268c1-f620-428a-9db7-8f0b71066e0dWhatsApp Image 2022-09-04 at 00.26.37.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\467268c1-f620-428a-9db7-8f0b71066e0dWhatsApp Image 2022-09-04 at 00.26.37.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\4b30e07d-ab91-472d-b14f-e738dd00817fPork.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\4b30e07d-ab91-472d-b14f-e738dd00817fPork.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\4c89352a-5256-4775-bf46-a60fdb89d723WhatsApp Image 2022-09-04 at 00.27.23.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\4c89352a-5256-4775-bf46-a60fdb89d723WhatsApp Image 2022-09-04 at 00.27.23.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\4cded787-1034-45ec-81e0-8cda6999c07cbeef-taco-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\4cded787-1034-45ec-81e0-8cda6999c07cbeef-taco-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\4ecbac0a-7fbf-4278-90b0-7d07c13b6ea8filetred.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\4ecbac0a-7fbf-4278-90b0-7d07c13b6ea8filetred.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\51accede-4c86-4e20-9ddc-15639919682eWhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\51accede-4c86-4e20-9ddc-15639919682eWhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\52b6a851-81cb-4449-bfb9-6aca499e42ffPork.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\52b6a851-81cb-4449-bfb9-6aca499e42ffPork.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\53f8b72a-565e-44df-99f3-a531f8abbadfbeef_wellington.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\53f8b72a-565e-44df-99f3-a531f8abbadfbeef_wellington.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\5af87fe1-da43-43a3-a570-b9f1c9215fd5WhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\5af87fe1-da43-43a3-a570-b9f1c9215fd5WhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\5e692ee1-b12d-470b-ab66-07b5bf60eeacWhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\5e692ee1-b12d-470b-ab66-07b5bf60eeacWhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\600f90e4-834a-4515-9b39-45a599810599WhatsApp Image 2022-09-04 at 00.27.25.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\600f90e4-834a-4515-9b39-45a599810599WhatsApp Image 2022-09-04 at 00.27.25.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\620be336-4b07-46e7-8b9c-a900463bb938massimo.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\620be336-4b07-46e7-8b9c-a900463bb938massimo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\62ade3b5-16df-4285-9a22-1281fc297db3WhatsApp Image 2022-09-04 at 00.26.37.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\62ade3b5-16df-4285-9a22-1281fc297db3WhatsApp Image 2022-09-04 at 00.26.37.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\62fda0a8-d366-4a1a-a12a-3a2803893743WhatsApp Image 2022-09-04 at 00.27.21.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\62fda0a8-d366-4a1a-a12a-3a2803893743WhatsApp Image 2022-09-04 at 00.27.21.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\643-700special.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\643-700special.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\646a175a-7629-49f4-b306-6445333d90b0admin-image-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\646a175a-7629-49f4-b306-6445333d90b0admin-image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\650a1dc5-6e59-437e-ac2c-5e81850bff86WhatsApp Image 2022-09-04 at 00.27.21.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\650a1dc5-6e59-437e-ac2c-5e81850bff86WhatsApp Image 2022-09-04 at 00.27.21.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\66dafd06-aeab-4e29-be9f-64c69b979f3ebluebird.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\66dafd06-aeab-4e29-be9f-64c69b979f3ebluebird.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\6aa02565-df6c-423a-9fe4-7babe85d4b0aWhatsApp Image 2022-09-04 at 00.27.16.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\6aa02565-df6c-423a-9fe4-7babe85d4b0aWhatsApp Image 2022-09-04 at 00.27.16.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\6b80c437-150b-48e5-a7e2-799a53576801ahi_tuna_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\6b80c437-150b-48e5-a7e2-799a53576801ahi_tuna_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\6be1ddaf-4e36-4fdc-9428-87d0d4380d2eEGGPLANT-PARMESANE.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\6be1ddaf-4e36-4fdc-9428-87d0d4380d2eEGGPLANT-PARMESANE.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\6da7052f-5fba-4ab3-91f9-3b7952fde9d3Beet.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\6da7052f-5fba-4ab3-91f9-3b7952fde9d3Beet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\6e11987b-770a-4229-a7ff-cd13846ccb19WhatsApp Image 2022-09-04 at 00.27.26.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\6e11987b-770a-4229-a7ff-cd13846ccb19WhatsApp Image 2022-09-04 at 00.27.26.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\6f34b6a9-111d-4764-a7dd-9c350a62e6f4blueberry.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\6f34b6a9-111d-4764-a7dd-9c350a62e6f4blueberry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\6f76a4af-849c-48ea-bef7-02d630e9f678WhatsApp Image 2022-09-04 at 00.27.25.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\6f76a4af-849c-48ea-bef7-02d630e9f678WhatsApp Image 2022-09-04 at 00.27.25.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\717a2ad3-bc8f-4724-afea-3bf69c26427fgrilled.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\717a2ad3-bc8f-4724-afea-3bf69c26427fgrilled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\71c7f968-bed9-4c9e-b345-ec509c254c54WhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\71c7f968-bed9-4c9e-b345-ec509c254c54WhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\723564a5-813c-4823-9805-042b005bae7cWhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\723564a5-813c-4823-9805-042b005bae7cWhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\73f23cea-0d21-454d-a433-4d40bed420f7ahi_tuna_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\73f23cea-0d21-454d-a433-4d40bed420f7ahi_tuna_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\77815848-b1bf-4b82-83c5-223177cef953orange.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\77815848-b1bf-4b82-83c5-223177cef953orange.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\7782a43a-0f5a-4d94-86f0-ddacbc583838WhatsApp Image 2022-09-04 at 00.27.26.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\7782a43a-0f5a-4d94-86f0-ddacbc583838WhatsApp Image 2022-09-04 at 00.27.26.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\7b3946a0-6718-49e3-bbb1-78f1a12bc46edessert-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\7b3946a0-6718-49e3-bbb1-78f1a12bc46edessert-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\7b8e487a-d85b-4ce2-87ad-9f3faffc169capple-crispe.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\7b8e487a-d85b-4ce2-87ad-9f3faffc169capple-crispe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\7bd4652e-3940-4fcf-a637-ac3fb367e16aWhatsApp Image 2022-09-04 at 00.29.36 (1).jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\7bd4652e-3940-4fcf-a637-ac3fb367e16aWhatsApp Image 2022-09-04 at 00.29.36 (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\7e10240e-5f12-479c-8fcc-6e60c802a675greek_salad.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\7e10240e-5f12-479c-8fcc-6e60c802a675greek_salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\7ff421d1-87b9-463e-9c3e-6c2e7bf6b52dcake.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\7ff421d1-87b9-463e-9c3e-6c2e7bf6b52dcake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\806d141e-854a-4e97-9cd5-aad187a1144dahi_tuna_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\806d141e-854a-4e97-9cd5-aad187a1144dahi_tuna_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\8acf2b52-c3b7-4b1d-8271-464e4dae1fa3admin-image-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\8acf2b52-c3b7-4b1d-8271-464e4dae1fa3admin-image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\8bcdc25c-6d27-4eee-97aa-11a81f236225MushroomBisque-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\8bcdc25c-6d27-4eee-97aa-11a81f236225MushroomBisque-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\8d0eb321-d9c2-4b96-9157-2dfa5c96e209WhatsApp Image 2022-09-04 at 00.27.26.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\8d0eb321-d9c2-4b96-9157-2dfa5c96e209WhatsApp Image 2022-09-04 at 00.27.26.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\91b724e0-393d-4b1f-91a7-590a858a4b0aadmin-image-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\91b724e0-393d-4b1f-91a7-590a858a4b0aadmin-image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\91f04d68-7826-48c3-a733-c9341399d3dbfrench75.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\91f04d68-7826-48c3-a733-c9341399d3dbfrench75.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\92df023b-f3f2-47bf-9cbc-ffd780cbda6akiwi_tea.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\92df023b-f3f2-47bf-9cbc-ffd780cbda6akiwi_tea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\943aaa68-bbb5-4d27-9df1-ef6cf0ab99baraspberry.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\943aaa68-bbb5-4d27-9df1-ef6cf0ab99baraspberry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\94cbf1d6-9b6e-467c-a384-6e2b58faa96eWhatsApp Image 2022-09-04 at 00.27.23.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\94cbf1d6-9b6e-467c-a384-6e2b58faa96eWhatsApp Image 2022-09-04 at 00.27.23.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\95e263ac-0b02-45e1-9f11-327c937f1db3WhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\95e263ac-0b02-45e1-9f11-327c937f1db3WhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\9621872f-4c9b-483b-a98d-531ac15b9cccapple-juice.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\9621872f-4c9b-483b-a98d-531ac15b9cccapple-juice.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\98bcbbea-b34d-4196-9b3a-7fd9f64f2623WhatsApp Image 2022-09-04 at 00.27.25.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\98bcbbea-b34d-4196-9b3a-7fd9f64f2623WhatsApp Image 2022-09-04 at 00.27.25.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\9b2945ba-678d-4f52-a710-775a7bf88c56spaghetti_carbonara.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\9b2945ba-678d-4f52-a710-775a7bf88c56spaghetti_carbonara.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\9d656a65-ce67-4390-a500-a2abe7e14b02commis.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\9d656a65-ce67-4390-a500-a2abe7e14b02commis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\9edadedd-7f41-424b-be47-7d5a00fa1a1fadmin-image-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\9edadedd-7f41-424b-be47-7d5a00fa1a1fadmin-image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\Elegencia.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Elegencia.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\a06c8154-275b-4c77-9c26-c24af2ed54c2WhatsApp Image 2022-09-04 at 00.29.36.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\a06c8154-275b-4c77-9c26-c24af2ed54c2WhatsApp Image 2022-09-04 at 00.29.36.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\a0b0ed8d-0af1-46ca-8ed8-0ac4b03ff4a9WhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\a0b0ed8d-0af1-46ca-8ed8-0ac4b03ff4a9WhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\a300f1da-357b-4b9a-9f34-c41e4ab23761WhatsApp Image 2022-09-04 at 00.27.25.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\a300f1da-357b-4b9a-9f34-c41e4ab23761WhatsApp Image 2022-09-04 at 00.27.25.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\a55626b3-68f9-41d5-b615-3a60eabd50e1WhatsApp Image 2022-09-04 at 00.27.26.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\a55626b3-68f9-41d5-b615-3a60eabd50e1WhatsApp Image 2022-09-04 at 00.27.26.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\aae0b932-e88d-4496-87d1-cc7de32b1d57beef_wellington.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\aae0b932-e88d-4496-87d1-cc7de32b1d57beef_wellington.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\aboutVideoBg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\aboutVideoBg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\about_banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about_banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\about_bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\about_open_hour.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about_open_hour.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\about_open_hour_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about_open_hour_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\ac4d22b6-952f-41f6-a28e-9e5d8e2fe5e9stir-frai.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ac4d22b6-952f-41f6-a28e-9e5d8e2fe5e9stir-frai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\adf04ad4-732c-4fad-8622-c0f26d303501WhatsApp Image 2022-09-04 at 00.27.23.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\adf04ad4-732c-4fad-8622-c0f26d303501WhatsApp Image 2022-09-04 at 00.27.23.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\admin-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\admin-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\af4b6bec-1d2b-421d-b0d1-f20fe19ea6e2mango-coconut.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\af4b6bec-1d2b-421d-b0d1-f20fe19ea6e2mango-coconut.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\arrow-down-outline.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\arrow-down-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\author.png",
+      "PackagePath": "staticwebassets\\assets\\img\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\b8d9506e-ae8c-4bd9-a002-cc25985891a7tiramisu.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\b8d9506e-ae8c-4bd9-a002-cc25985891a7tiramisu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\b96ee64b-ba04-4136-a382-b5de8b3c7e36WhatsApp Image 2022-09-04 at 00.27.23.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\b96ee64b-ba04-4136-a382-b5de8b3c7e36WhatsApp Image 2022-09-04 at 00.27.23.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\banner_top_all.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner_top_all.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\barMenuBg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\barMenuBg.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\bessertsMenuBg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bessertsMenuBg.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\bestItem1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bestItem1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\bestItem2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bestItem2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\bg-2(slider).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-2(slider).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\bg-3(slider).png",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-3(slider).png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\bg-4(slider).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-4(slider).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\bg-5(slider).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-5(slider).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\bg-6(slider).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-6(slider).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\bg-menu.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-menu.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\blog_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\blog_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\blog_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\blog_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\blog_5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\blog_6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\blog_7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\blog_8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\blog_9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\blog_details_video.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog_details_video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\blog_detalis.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog_detalis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\bookingSystemBg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bookingSystemBg.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\c1d875f6-e075-4e1d-a8a9-9ac6e79747c8cremee-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\c1d875f6-e075-4e1d-a8a9-9ac6e79747c8cremee-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\c24d8df5-7460-4f9b-a579-b46b50be1347bread-pudding-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\c24d8df5-7460-4f9b-a579-b46b50be1347bread-pudding-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\c3fe34cd-276f-49f5-affd-b1ef1dff9747americano.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\c3fe34cd-276f-49f5-affd-b1ef1dff9747americano.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\c4c81a12-7707-494b-911f-270edf96cdb1Seafood-Bisque.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\c4c81a12-7707-494b-911f-270edf96cdb1Seafood-Bisque.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\c728143b-0e3a-4b8c-8488-cc430b7607fccremee-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\c728143b-0e3a-4b8c-8488-cc430b7607fccremee-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\c839fdeb-4147-4d84-817d-9745ad3753d5byron.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\c839fdeb-4147-4d84-817d-9745ad3753d5byron.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\c864bce6-0a7b-497b-bd34-9a063932debestir-frai.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\c864bce6-0a7b-497b-bd34-9a063932debestir-frai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\ca66c277-8cf8-4267-ad2d-11f461569775choco.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ca66c277-8cf8-4267-ad2d-11f461569775choco.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\caesar-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\caesar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\cbfd9134-220b-4e80-8f52-d5daca3ebdeabread-pudding.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\cbfd9134-220b-4e80-8f52-d5daca3ebdeabread-pudding.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\ce833043-5e2f-47dc-8ec9-a11f06430158WhatsApp Image 2022-09-03 at 20.58.33.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\ce833043-5e2f-47dc-8ec9-a11f06430158WhatsApp Image 2022-09-03 at 20.58.33.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\ce9e64c7-1736-435e-8e77-15ace140faeaEGGPLANT-PARMESANE.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\ce9e64c7-1736-435e-8e77-15ace140faeaEGGPLANT-PARMESANE.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\cfab3d35-87c0-4e54-afdb-7c72c426b421filetred.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cfab3d35-87c0-4e54-afdb-7c72c426b421filetred.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\chef-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chef-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\chef_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chef_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\chef_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chef_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\chef_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chef_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\chef_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chef_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\chef_5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chef_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\chef_6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chef_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\coca-cola.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\coca-cola.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\commingBg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\commingBg.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\commmon_banner_top.png",
+      "PackagePath": "staticwebassets\\assets\\img\\commmon_banner_top.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\d02fb69b-5beb-4999-b406-6ca4d8e5dff4admin.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\d02fb69b-5beb-4999-b406-6ca4d8e5dff4admin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\d3b19f77-c59c-46ca-8da4-b2f2788474c9admin-image-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\d3b19f77-c59c-46ca-8da4-b2f2788474c9admin-image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\d7c383ac-cd84-4385-a1cf-013275e45656WhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\d7c383ac-cd84-4385-a1cf-013275e45656WhatsApp Image 2022-12-31 at 2.36.14 PM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\dcf26d92-ffc0-4afc-b744-f629103e12cckey_lima.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dcf26d92-ffc0-4afc-b744-f629103e12cckey_lima.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\dd0677a2-f281-46c9-b0ca-022e89c47574WhatsApp Image 2022-09-04 at 00.27.16.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\dd0677a2-f281-46c9-b0ca-022e89c47574WhatsApp Image 2022-09-04 at 00.27.16.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\ddebca70-b379-4f57-91be-8dc9b05cd781argula.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ddebca70-b379-4f57-91be-8dc9b05cd781argula.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\desserts.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\desserts.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\drink.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\drink.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\e943c459-e64a-4b2a-a173-fe71e8a6412bWhatsApp Image 2022-09-04 at 00.27.26.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\e943c459-e64a-4b2a-a173-fe71e8a6412bWhatsApp Image 2022-09-04 at 00.27.26.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\e9a2c00b-3d86-42f6-8c86-3411e112e276lava.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\e9a2c00b-3d86-42f6-8c86-3411e112e276lava.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\eb19b73c-23cb-45be-9de4-dcf75083d5ccespresso.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\eb19b73c-23cb-45be-9de4-dcf75083d5ccespresso.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\ebd9ecb4-61ce-4e54-9e00-272ed1662be9WhatsApp Image 2022-09-04 at 00.27.25.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\ebd9ecb4-61ce-4e54-9e00-272ed1662be9WhatsApp Image 2022-09-04 at 00.27.25.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\elegencia-qr-code.png",
+      "PackagePath": "staticwebassets\\assets\\img\\elegencia-qr-code.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\errorBg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\errorBg.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\f1674e95-3115-4e15-aeaa-28bcd5bdc32bWhatsApp Image 2022-09-04 at 00.27.26.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\f1674e95-3115-4e15-aeaa-28bcd5bdc32bWhatsApp Image 2022-09-04 at 00.27.26.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\f3cca7cd-e6f9-4674-bdfa-79676c856abdWhatsApp Image 2022-09-04 at 00.27.25.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\f3cca7cd-e6f9-4674-bdfa-79676c856abdWhatsApp Image 2022-09-04 at 00.27.25.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\f58ebc63-669b-4bf1-8769-c34feaec5819apple-crispe.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\f58ebc63-669b-4bf1-8769-c34feaec5819apple-crispe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\fam.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\fam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\favicon.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\fde67b8d-bef5-4d3d-a89f-233a3b782176pink.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\fde67b8d-bef5-4d3d-a89f-233a3b782176pink.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\final-qr.png",
+      "PackagePath": "staticwebassets\\assets\\img\\final-qr.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\food-menu.png",
+      "PackagePath": "staticwebassets\\assets\\img\\food-menu.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\food_item_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\food_item_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\food_item_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\food_item_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\food_item_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\food_item_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\food_item_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\food_item_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\food_item_5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\food_item_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\footer_bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\footer_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\fullWM_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\fullWM_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\fullWM_about.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\fullWM_about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\fullWM_chef.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\fullWM_chef.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\fullWM_contact.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\fullWM_contact.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\fullWM_menu.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\fullWM_menu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\gallery_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\gallery_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\gallery_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\gallery_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\gallery_5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\gallery_6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\hero_bg_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero_bg_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\hero_bg_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero_bg_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\hero_bg_2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hero_bg_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\hero_bg_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero_bg_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\item-show.png",
+      "PackagePath": "staticwebassets\\assets\\img\\item-show.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\item-show_2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\item-show_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\item-show_3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\item-show_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\location.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\location.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\main-menu.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\main-menu.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\meetAbout.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\meetAbout.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\menu-bg-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu-bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\menuBg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\menuBg.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\open-hours.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\open-hours.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\opening-hours.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\opening-hours.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\openingHour.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\openingHour.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\pasta-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pasta-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\portfolio.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\portfolio_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\portfolio_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\portfolio_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\portfolio_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\portfolio_5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\portfolio_6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\portfolio_7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\portfolio_8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\portfolio_9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\portfolio_details.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio_details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\qr#22.png",
+      "PackagePath": "staticwebassets\\assets\\img\\qr#22.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\qr-code.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\qr-code.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\qr.png",
+      "PackagePath": "staticwebassets\\assets\\img\\qr.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\reservation-2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\reservation-2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\reservation.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\reservation.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\robert.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\robert.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\salad.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\salad.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\shashlik-2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\shashlik-2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\slider.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\special-1-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\special-1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\special-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\special-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\special-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\special-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\special.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\special.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\star_line.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\star_line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\steven.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\steven.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\testimonial_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\testimonial_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\testimonial_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\testimonial_icon_l.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial_icon_l.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\testimonial_icon_r.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial_icon_r.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\time-outline.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\time-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\treacle-tarte-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\treacle-tarte-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\treacle-tarte.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\treacle-tarte.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\user-view.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user-view.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\img\\video.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\js\\plugins\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\js\\plugins\\ScrollSmoother.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\ScrollSmoother.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\js\\plugins\\ScrollToPlugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\ScrollToPlugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\js\\plugins\\ScrollTrigger.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\ScrollTrigger.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\js\\plugins\\SplitText.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\SplitText.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\js\\plugins\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\js\\plugins\\gsap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\gsap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\js\\plugins\\isotope.pkg.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\isotope.pkg.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\js\\plugins\\jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery-3.7.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\js\\plugins\\jquery.slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\js\\plugins\\lightgallery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\lightgallery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\js\\plugins\\locomotive-scroll.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\locomotive-scroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\js\\plugins\\pagination.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\pagination.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\js\\plugins\\swiper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\sass\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\common\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\sass\\common\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\common\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\common\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\common\\_general.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\common\\_general.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\common\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\common\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\common\\_preloader.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\common\\_preloader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\common\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\common\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\common\\_slider.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\common\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\common\\_spacing.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\common\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\common\\_video-modal.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\common\\_video-modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\default\\_color_variable.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\default\\_color_variable.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\default\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\default\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\shortcode\\_about.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\shortcode\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\shortcode\\_best_item.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\shortcode\\_best_item.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\shortcode\\_blog.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\shortcode\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\shortcode\\_booking_system.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\shortcode\\_booking_system.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\shortcode\\_chef.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\shortcode\\_chef.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\shortcode\\_comment.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\shortcode\\_comment.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\shortcode\\_contact.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\shortcode\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\shortcode\\_food_item.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\shortcode\\_food_item.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\shortcode\\_food_menu_list.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\shortcode\\_food_menu_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\shortcode\\_gallery.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\shortcode\\_gallery.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\shortcode\\_hero.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\shortcode\\_hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\shortcode\\_location.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\shortcode\\_location.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\shortcode\\_opening_hour.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\shortcode\\_opening_hour.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\shortcode\\_portfolio.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\shortcode\\_portfolio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\shortcode\\_sliding_text.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\shortcode\\_sliding_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\shortcode\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\shortcode\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\shortcode\\_video.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\shortcode\\_video.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\style.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\assets\\style.css",
+      "PackagePath": "staticwebassets\\assets\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\css\\main.css",
+      "PackagePath": "staticwebassets\\manage\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\css\\main.min.css",
+      "PackagePath": "staticwebassets\\manage\\css\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\accept.png",
+      "PackagePath": "staticwebassets\\manage\\images\\accept.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\basket-icon.png",
+      "PackagePath": "staticwebassets\\manage\\images\\basket-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\category-icon.png",
+      "PackagePath": "staticwebassets\\manage\\images\\category-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\chef-icon.png",
+      "PackagePath": "staticwebassets\\manage\\images\\chef-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\chef-position-icon.png",
+      "PackagePath": "staticwebassets\\manage\\images\\chef-position-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\contact-icon.png",
+      "PackagePath": "staticwebassets\\manage\\images\\contact-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\dash-icon.png",
+      "PackagePath": "staticwebassets\\manage\\images\\dash-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\decline.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\decline.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\des-cat-icon.png",
+      "PackagePath": "staticwebassets\\manage\\images\\des-cat-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\dessert-icon.png",
+      "PackagePath": "staticwebassets\\manage\\images\\dessert-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\dr-cat-icon.png",
+      "PackagePath": "staticwebassets\\manage\\images\\dr-cat-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\drink-icon.png",
+      "PackagePath": "staticwebassets\\manage\\images\\drink-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\fame.png",
+      "PackagePath": "staticwebassets\\manage\\images\\fame.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\home-2-icon.png",
+      "PackagePath": "staticwebassets\\manage\\images\\home-2-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\main-category.png",
+      "PackagePath": "staticwebassets\\manage\\images\\main-category.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\main-meal-2.png",
+      "PackagePath": "staticwebassets\\manage\\images\\main-meal-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\meal-icon.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\meal-icon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\menu-icon-3.png",
+      "PackagePath": "staticwebassets\\manage\\images\\menu-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\news-icon.png",
+      "PackagePath": "staticwebassets\\manage\\images\\news-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\our-chef-icon-2.png",
+      "PackagePath": "staticwebassets\\manage\\images\\our-chef-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\reject.png",
+      "PackagePath": "staticwebassets\\manage\\images\\reject.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\salad-icon.png",
+      "PackagePath": "staticwebassets\\manage\\images\\salad-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\images\\yes.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\yes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\manage\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\js\\jquery-3.7.0.min.js",
+      "PackagePath": "staticwebassets\\manage\\js\\jquery-3.7.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\js\\main.js",
+      "PackagePath": "staticwebassets\\manage\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\js\\plugins\\chart.js",
+      "PackagePath": "staticwebassets\\manage\\js\\plugins\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\js\\plugins\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\manage\\js\\plugins\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\manage\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\manage\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\manage\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Elegencia\\Elegencia\\src\\Presentation\\Elegencia.UI\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Elegencia.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Elegencia.UI.props",
+      "PackagePath": "build\\Elegencia.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Elegencia.UI.props",
+      "PackagePath": "buildMultiTargeting\\Elegencia.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Elegencia.UI.props",
+      "PackagePath": "buildTransitive\\Elegencia.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

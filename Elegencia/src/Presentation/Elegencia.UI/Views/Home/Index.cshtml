@@ -1,0 +1,316 @@
+﻿@model HomeVM
+
+<div id="scrollsmoother-container">
+
+    <main>
+        <!-- Start Hero -->
+        <section>
+
+            <div class="ak-hero ak-style1">
+                <img class="ak-hero-bg ak-bg" src="~/assets/img/slider.jpg" />
+                <div class="hero-text-section container-fluid">
+                    <div class="ak-slider ak-slider-1">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="slider-info">
+                                    <div class="hero-title">
+                                        <h1 class="hero-main-title">Elegance Retreat</h1>
+                                        <h1 class="hero-main-title-1">Restaurant</h1>
+                                    </div>
+
+                                    <div class="ak-height-30 ak-height-lg-30"></div>
+                                    <div>
+                                        <p class="hero-sub-text text-light fw-medium ">
+                                            Welcome to our restaurant, where culinary artistry
+                                            meets exceptional dining experiences. At, we strive to create a
+                                            gastronomic haven that tantalizes your taste buds and leaves you with
+                                        </p>
+                                    </div>
+                                    <div class="ak-height-70 ak-height-lg-30"></div>
+                                    <a asp-controller="reservation" asp-action="create" class="hero-btn style-1">
+                                        <div class="ak-btn style-5 color-yellow-bg">
+                                            Reservations
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+        <!-- End Hero -->
+        <!-- Start Sliding Text -->
+        <div class="ak-moving-section-wrap ak-normal text-uppercase">
+            <div class="ak-moving-section-in">
+                <div class="ak-moving-section">
+                    <h2>
+                        <span>Embark </span>on a gastronomic <span>adventure </span>, guided by <span>
+                            our
+                            exquisite
+                        </span> dishes
+                    </h2>
+                </div>
+                <div class="ak-moving-section">
+                    <h2>
+                        <span>Embark </span>on a gastronomic <span>adventure</span>, guided by <span>
+                            our
+                            exquisite
+                        </span> dishes
+                    </h2>
+                </div>
+            </div>
+        </div>
+        <!-- End Sliding Text -->
+        <!-- Start About -->
+        <section class="ak-about-bg-color">
+            <div class="ak-height-150 ak-height-lg-60"></div>
+            <div class="ak-about ak-style-1">
+                <div class="ak-about-bg-img ak-bg">
+                    <img class="imagesZoom" src="~/assets/img/bg-4(slider).jpg" alt="...">
+                </div>
+                <div class="ak-about-hr"></div>
+                <div class="container">
+                    <div class="about-section ak-about-1">
+                        <div class="about-text-section">
+                            <h2 class="about-title">
+                                Exquisite Dining Experience Fit for
+                                <br><span class="anim-title-2">Royalty</span>
+                            </h2>
+                            <div class="ak-height-35 ak-height-lg-30"></div>
+                            <p class="about-subtext">
+                                Welcome to our restaurant, where culinary artistry meets
+                                exceptional dining experiences. Elegencia specializes in delicious food featuring fresh ingredients and masterful preparation by the Elegencia culinary team.
+                                Whether you’re ordering a multi-course meal or grabbing a drink and pizza at the bar,
+                                Elegencia’s lively,
+                                casual yet upscale atmosphere makes it perfect for dining with friends, family,
+                                clients and business associates.
+                            </p>
+
+                            <div class="ak-height-50 ak-height-lg-30"></div>
+                            <div class="text-btn">
+                                <a asp-controller="about" class="text-btn1">
+                                    About Us
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="ak-height-150 ak-height-lg-60"></div>
+        </section>
+        <!-- End About -->
+        <!-- Start Opening Hour -->
+        <section class="ak-bg-secendary">
+
+            <div class="opening-hour">
+                <div class="opening-hour-img-section ">
+                    <img src="~/assets/img/opening-hours.jpg" class="opening-bg-img ak-bg" alt="..." data-speed="auto">
+                    <div class="overlap-opening-img"></div>
+                </div>
+                <div class="opening-hour-text-section pe-1">
+                    <h2 class="opening-hour-title anim-title-2">Opening Hours </h2>
+                    <div class="ak-height-30 ak-height-lg-30"></div>
+                    <p class="opening-hour-subtext">
+                        Lorem to our restaurant, where culinary artistry meets
+                        exceptional dining experiences. At, we strive to create a gastronomic haven that.
+                    </p>
+                    <div class="ak-height-30 ak-height-lg-30"></div>
+                    <div class="opening-hour-date">
+                        <p>MONDAY-FRIDAY: @Model.Service["Weekdays"]</p>
+                        <div class="opening-hour-hr"></div>
+                        <p>SATURDAY & SUNDAY: @Model.Service["Weekend"]</p>
+                    </div>
+                    <div class="ak-height-70 ak-height-lg-30"></div>
+                    <div class="text-btn">
+                        <a asp-controller="reservation" asp-action="create" class="text-btn1">
+                            Reservation
+                        </a>
+                    </div>
+
+                    <div class="ak-height-lg-60"></div>
+
+                </div>
+            </div>
+
+        </section>
+        <!-- End  Opening Hou  -->
+        <!-- Start Food item show case -->
+        <section>
+            <div class="ak-height-150 ak-height-lg-60"></div>
+            <div class="container-fluid">
+                <div class="ak-section-heading ak-style-1 ak-type-1">
+                    <div class="ak-section-subtitle">Food Items</div>
+                    <h2 class="ak-section-title anim-title">Food Showcase</h2>
+                </div>
+                <div class="ak-height-65 ak-height-lg-30"></div>
+                <div class="ak-slider ak-slider-2">
+                    <div class="swiper-wrapper">
+                        @foreach (Meal showcase in Model.Meals)
+                        {
+                            <div class="swiper-slide">
+                                <div class="ak-card ak-style-1">
+                                    <a href="portfolio-details.html" class="ak-card-img">
+                                        <img src="assets/img/@showcase.MealImages.FirstOrDefault()?.Image" alt="@showcase.Name" />
+                                    </a>
+                                    <div class="card-info">
+                                        <div class="card-text style-1">
+                                            <a href="portfolio-details.html">
+                                                <h5 class="card-title">
+                                                    @showcase.Name
+                                                </h5>
+                                            </a>
+                                            <div class="card-subtitle">
+                                                @showcase.Category.Name
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        }
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="ak-next-prev-2">
+                        <div class="ak-next-prev-2 ak-style-1">
+                            <div class="ak-swiper-button-prev-2">
+                                <button class="btn-style-2 btn-size btn-style-round button-prev-next-2 rotate-svg"
+                                        aria-disabled="false">
+                                    <svg width="20" height="14" xmlns="http://www.w3.org/2000/svg">
+                                        <g stroke="#fff" fill="none" fill-rule="evenodd">
+                                            <path d="M12.743 1.343L18.4 7l-5.657 5.657M18.4 7H.4"></path>
+                                        </g>
+                                    </svg>
+                                    <svg width="20" height="14" xmlns="http://www.w3.org/2000/svg">
+                                        <g stroke="#fff" fill="none" fill-rule="evenodd">
+                                            <path d="M12.743 1.343L18.4 7l-5.657 5.657M18.4 7H.4"></path>
+                                        </g>
+                                    </svg>
+                                </button>
+                            </div>
+                            <div class="ak-pagination-2 ak-style1"></div>
+                            <div class="ak-swiper-button-next-2">
+                                <button class="btn-style-2 btn-size btn-style-round button-prev-next-2"
+                                        aria-disabled="false">
+                                    <svg width="20" height="14" xmlns="http://www.w3.org/2000/svg">
+                                        <g stroke="#fff" fill="none" fill-rule="evenodd">
+                                            <path d="M12.743 1.343L18.4 7l-5.657 5.657M18.4 7H.4"></path>
+                                        </g>
+                                    </svg>
+                                    <svg width="20" height="14" xmlns="http://www.w3.org/2000/svg">
+                                        <g stroke="#fff" fill="none" fill-rule="evenodd">
+                                            <path d="M12.743 1.343L18.4 7l-5.657 5.657M18.4 7H.4"></path>
+                                        </g>
+                                    </svg>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Food item show case -->
+        <!-- Start Food Menu -->
+        <section>
+            <div class="ak-height-150 ak-height-lg-60"></div>
+            <div class="container">
+                <div class="ak-section-heading ak-style-1 ak-type-1">
+                    <div class="ak-section-subtitle">
+                        Special Selection
+                    </div>
+                    <h2 class="ak-section-title anim-title">Food Menu</h2>
+                </div>
+                <div class="ak-height-65 ak-height-lg-30"></div>
+                <div class="ak-menu-list">
+                    @foreach (Meal menu in Model.Meals)
+                    {
+                        <div class="ak-menu-list-section-1">
+                            <img src="~/assets/img/@menu.MealImages.FirstOrDefault()?.Image" alt="@menu.Name">
+                            <div class="food-menu style-1">
+                                <div class="food-menu-section-1">
+                                    <div class="food-menu-title">
+                                        <p>@menu.Name</p>
+                                    </div>
+                                    <div class="food-menu-hr">
+                                        <div class="food-menu-hr style-1"></div>
+                                        <div class="food-menu-hr style-1"></div>
+                                    </div>
+                                    <div class="food-menu-price">
+                                        <p>$@menu.Price</p>
+                                    </div>
+                                </div>
+                                <div class="food-menu-section-2">
+
+                                    <div class="food-menu-price-subsitle">
+                                        <p>@menu.Category.Name</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    }
+                </div>
+                <div class="ak-height-20 ak-height-lg-20"></div>
+                <div class="text-md-center">
+                    <div class="text-btn">
+                        <a asp-controller="menu" class="text-btn1">
+                            View More
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Food Menu -->
+
+
+        <div class="ak-height-150 ak-height-lg-60"></div>
+        <!-- Start Best Item -->
+        <section>
+            <div class="container">
+                <div class="ak-best-item">
+                    <div class="best-item-section-1">
+                        <div class="ak-section-heading ak-style-1">
+                            <div class="ak-section-subtitle">
+                                Our food philosophy
+                            </div>
+                            <h2 class="ak-section-title anim-title-2">
+                                <span > Our</span> <br>
+                                Specialties
+                            </h2>
+                        </div>
+                        <div class="ak-height-30 ak-height-lg-30"></div>
+                        <div>
+                            <p>
+                                Welcome to our restaurant, where culinary artistry meets exceptional dining
+                                experiences. At, we strive to create a gastronomic haven that tantalizes your taste
+                                buds.
+                            </p>
+                        </div>
+                        <div class="ak-height-50 ak-height-lg-30"></div>
+                        <div class="img-one">
+                            <img src="~/assets/img/special.jpg" alt="..." data-speed="1.2" data-lag="0">
+                            <div class="img-overlay"></div>
+                        </div>
+                    </div>
+                    <div class="best-item-section-2" data-speed="1.1" data-lag="1">
+                        <img src="~/assets/img/star_line.svg" alt="...">
+                    </div>
+                    <div class="best-item-section-3">
+                        <div class="img-two">
+                            <img src="~/assets/img/special-1-2.jpg" alt="..." data-speed="1.1" data-lag="0">
+                            <div class="img-overlay"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Best Item -->
+
+
+       
+    </main>
+    <div class="ak-height-150 ak-height-lg-60"></div>
